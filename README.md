@@ -34,7 +34,7 @@
 
 <div align="center">
 
-  ![Project Euler Badge](https://projecteuler.net/profile/arthurvalls.png?show=progress)
+  ![Project Euler Badge](https://projecteuler.net/profile/arthurvalls.png?show=progress?show=progress)
   
 </div>
 
