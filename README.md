@@ -29,8 +29,8 @@ From Rio, CS grad (UFRJ honors). Into ai, cs theory, optimization, and Vim. That
     <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Badge"/>
 
 -   **[SuperSim](https://www.linkedin.com/company/supersim/posts/?feedView=all)**
-    -   engineer at the ai team
-    -   integrating bleeding-edge ai tech onto our systems for back and front office services
+    -   engineer on the ai team
+    -   integrating bleeding-edge ai tech into our systems for back and front office services
     <br>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge"/>
