@@ -39,12 +39,3 @@ From Rio, CS grad (UFRJ honors). Into ai, cs theory, optimization, and Vim. That
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins Badge"/>
     <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch Badge"/>
-
-
-## 📊 Stats
-
-<div align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurvalls&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurvalls&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
-
-</div>
