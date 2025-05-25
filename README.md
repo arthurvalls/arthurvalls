@@ -1,49 +1,50 @@
-## Hello 👋
+# Hello 🤖
 
-<div align="center">
-  
-  ![Profile GIF](https://media0.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e47ldgaf1i5xtlwf7md2whokb73y1dlr6f7dci3ya73&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-  
-</div>
+<p>
+From Rio, CS grad (UFRJ honors). Into ai, cs theory, optimization, and Vim. That's about it.
+</p>
+<a href="https://www.linkedin.com/in/arthurvalls/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn Badge"></a>
+    <img height="50em" src="https://projecteuler.net/profile/arthurvalls.png?show=progress?" alt="Project Euler Badge"/>
 
-## 🔧 Skills
 
-<div align="center">
+## 💼 Experience
 
-<a href="https://www.python.org/" target="_blank"><img alt="Python" title="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
-<a href="https://isocpp.org/" target="_blank"><img alt="C++" title="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" title="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
-<a href="https://www.docker.com/" target="_blank"><img alt="Docker" title="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>
-<a href="https://opencv.org/" target="_blank"><img alt="OpenCV" title="OpenCV" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" /></a>
-<a href="https://www.linux.org/" target="_blank"><img alt="Linux" title="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
-<a href="https://www.java.com/" target="_blank"><img alt="Java" title="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img alt="Bash" title="Bash" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></a>
-<a href="https://reactjs.org/" target="_blank"><img alt="React" title="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" title="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
-<a href="https://www.qt.io/" target="_blank"><img alt="Qt" title="Qt" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" /></a>
+-   **[LCI/UFRJ](https://www.linkedin.com/company/lci---dcc-ufrj/?originalSubdomain=br)**
+    -   managed auth and docker deployment
+    <br>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
+    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Badge"/>
 
-</div>
+-   **[MettaSafe](https://www.linkedin.com/company/mettasafe/posts/?feedView=all)**
+    -   worked on development of embedded systems for computer vision
+    <br>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
+    <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt Badge"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
+    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Badge"/>
 
-## 📈 GitHub Stats
+-   **[SuperSim](https://www.linkedin.com/company/supersim/posts/?feedView=all)**
+    -   engineer at the ai team
+    -   integrating bleeding-edge ai tech onto our systems for back and front office services
+    <br>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge"/>
+    <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven Badge"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins Badge"/>
+    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch Badge"/>
 
-<div align="center">
-  
+
+## 📊 Stats
+
+<div align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurvalls&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurvalls&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
-  
-</div>
-
-## 📫 Let's Connect
-
-<div align="center">
-  
-  <a href="https://www.linkedin.com/in/arthurvalls/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn Badge"></a>
-</div>
-
-##
-
-<div align="center">
-
-  ![Project Euler Badge](https://projecteuler.net/profile/arthurvalls.png?show=progress?)
 
 </div>
